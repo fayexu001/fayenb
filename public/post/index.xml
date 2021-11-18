@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Hugo website</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Air crash data analysis</title>
+      <link>/2021/11/17/air-crash-data-analysis/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/11/17/air-crash-data-analysis/</guid>
+      <description>Since the Wright brothers invented airplanes in 1903, the history of human flight has gone through more than one hundred years. Looking back on history, airplanes have occupied an important position in transportation because of their increasingly convenient and irreplaceable advantages. Worldwide, the number of global aircraft passenger traffic has increased in the past decade. .</description>
+    </item>
+    
+  </channel>
+</rss>
