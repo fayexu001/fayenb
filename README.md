@@ -1,2 +1,2 @@
-# fayenb-
+# fayenb
 My first blog
